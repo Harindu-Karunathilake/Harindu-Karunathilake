@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]! 🚀
+# 👋 Hey there, I'm Harindu! 🚀
 
 ## 👨‍💻 About Me
 🔹 **Computer Science Undergraduate** at Plymouth University  
