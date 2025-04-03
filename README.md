@@ -1,5 +1,23 @@
-# 💫 About Me:
-I am working on a property listing platform using flutter.<br> I am learning about AI and machine learning.<br>I passionate and interested in flutter projects.<br><br>
+# 👋 Hey there, I'm [Your Name]! 🚀
+
+## 👨‍💻 About Me
+🔹 **Computer Science Undergraduate** at Plymouth University  
+🔹 Passionate about **Flutter development** and building intuitive mobile apps  
+🔹 Currently working on a **property listing platform** in Flutter  
+🔹 Exploring **AI & Machine Learning** for smarter applications  
+
+## 🔥 My Projects & Experience
+🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   
+📱 **Flutter Property Listing App:** Integrated with Provider for state management  
+
+## 🚀 Tech Stack
+🔹 **Flutter & Dart** – My go-to for mobile development  
+🔹 **Firebase & Firestore** – For scalable backend solutions  
+🔹 **AI & ML** – Expanding my knowledge in neural networks and predictive models  
+
+## 📫 Let's Connect!
+💻 Check out my projects on [GitHub](https://github.com/Hikarunathilake)  
+💬 Always open to discussing **Flutter, AI, and innovative tech solutions!**  
 
 
 ## 🌐 Socials:
