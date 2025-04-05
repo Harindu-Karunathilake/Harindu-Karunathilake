@@ -1,4 +1,4 @@
-## Hey there, I'm Harindu! 🚀
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Harindu! 🚀
 
 ## 👨‍💻 About Me
 🔹 **Computer Science Undergraduate** at Plymouth University  
