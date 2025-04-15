@@ -8,7 +8,7 @@
 
 ## 🔥 My Projects & Experience
 🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   
-📱 **Flutter Property Listing App:** Integrated with Provider for state management chat functionality and paypal integration.
+📱 **Flutter Property Listing App:** Integrated with Provider for state management, chat functionality and paypal integration.
 
 ## 🚀 Tech Stack
 🔹 **Flutter & Dart** – My go-to for mobile development  
