@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 🔹 **Computer Science Undergraduate** at Plymouth University  
 🔹 Passionate about **Flutter development** and building intuitive mobile apps  
-🔹 Currently working on a **property listing platform** in Flutter  
+🔹 Currently working on a **music player platform** using Flutter  
 🔹 Exploring **AI & Machine Learning** for smarter applications  
 
 ## 🔥 My Projects & Experience
