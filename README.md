@@ -9,12 +9,13 @@
 ## 🔥 My Projects & Experience
 🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   
 📱 **Flutter Property Listing App:** Integrated with Provider for state management, chat functionality, and PayPal integration.
+📱 **Flutter Music Player App:** Integrated with Provider for state management and audio playback functionalities.
 
 ## 🚀 Tech Stack
 🔹 **Flutter & Dart** – My go-to for mobile development  
 🔹 **Firebase & Firestore** – For scalable backend solutions  
 🔹 **AI & ML** – Expanding my knowledge in neural networks and predictive models  
-
+🔹 **MERN stack**   
 ## 📫 Let's Connect!
 💻 Check out my projects on [GitHub](https://github.com/Hikarunathilake)  
 💬 Always open to discussing **Flutter, AI, and innovative tech solutions!**  
