@@ -1,6 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Harindu! 🚀
 
 ## 👨‍💻 About Me
+
 🔹 **Computer Science Undergraduate** at Plymouth University  
 🔹 Passionate about **Flutter development** and building intuitive mobile apps  
 🔹 Currently working on a **E-commerce web application** using Nextjs and Mongo DB  
@@ -10,6 +11,7 @@
 🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   
 📱 **Flutter Property Listing App:** Integrated with Provider for state management, chat functionality, and PayPal integration.
 📱 **Flutter Music Player App:** Integrated with Provider for state management and audio playback functionalities.
+🌟 **Finance application:**  desktop app built using C# to manage bank acitivities within the employees.
 
 ## 🚀 Tech Stack
 🔹 **Flutter & Dart** – My go-to for mobile development  
