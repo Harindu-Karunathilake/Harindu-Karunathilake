@@ -13,7 +13,7 @@
     *   Developed scalable ERP solutions using Next.js App Router and Electron.
     *   Integrated Node.js backend processes with hardware-level devices via custom Electron IPC channels.
     *   Designed robust database schemas and implemented secure, scalable API architectures using TypeScript, Zod, and React Hook Form.
-*   **Web Development Intern** at [Lex Solution Pvt Ltd](https://lex.lk/) | *Aug 2025 – Feb 2026*
+*   **Web Development Intern** at Lex Solution Pvt Ltd | *Aug 2025 – Feb 2026*
     *   Collaborated on diverse web development projects and contributed to team-based software delivery.
 
 ## 🔥 Key Projects
