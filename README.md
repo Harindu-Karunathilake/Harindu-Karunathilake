@@ -3,37 +3,53 @@
 ## 👨‍💻 About Me
 
 🔹 **Computer Science Undergraduate** at Plymouth University  
-🔹 Passionate about **Flutter development** and building intuitive mobile apps  
-🔹 Currently working on a **E-commerce web application** using Nextjs and Mongo DB  
-🔹 Exploring **AI & Machine Learning** for smarter applications  
+🔹 Passionate about **Full-Stack Development** and building AI-driven solutions  
+🔹 Experienced in **mobile (Flutter)** and **web (Next.js/MERN)** development  
+🔹 Passionate about UI/UX design and intuitive user experiences  
 
-## 🔥 My Projects & Experience
-🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   
-📱 **Flutter Property Listing App:** Integrated with Provider for state management, chat functionality, and PayPal integration.
-📱 **Flutter Music Player App:** Integrated with Provider for state management and audio playback functionalities.
-🌟 **Finance application:**  desktop app built using C# to manage bank acitivities within the employees.
+## 💼 Professional Experience
+
+*   **Full Stack Software Engineering Intern** at [ALGOARTS (Pvt) Ltd](https://algoarts.tech/) | *Feb 2025 – Aug 2026*
+    *   Developed scalable ERP solutions using Next.js App Router and Electron.
+    *   Integrated Node.js backend processes with hardware-level devices via custom Electron IPC channels.
+    *   Designed robust database schemas and implemented secure, scalable API architectures using TypeScript, Zod, and React Hook Form.
+*   **Web Development Intern** at [Lex Solution Pvt Ltd](https://lex.lk/) | *Aug 2025 – Feb 2026*
+    *   Collaborated on diverse web development projects and contributed to team-based software delivery.
+
+## 🔥 Key Projects
+
+🌟 **Career Craft:** An AI-enabled career development platform featuring resume analysis (Gemini AI), voice-based mock interview simulations (Vapi), and a secure course management system. [Live Demo](https://career-craft-ivory.vercel.app/) | [GitHub](https://github.com/Harindu-Karunathilake/career-craft.git)
+
+🌟 **Prism:** An interior design visualization platform. Created an interactive 2D layout builder (React DnD) with a real-time 3D rendering engine (Three.js/React Three Fiber) to bridge the "visualization gap" for consumers. [GitHub](https://github.com/Chenul-Thenuwara/Human-computer-interaction.git)
+
+🌟 **MyFlix:** A full-stack movie booking SaaS featuring real-time seat synchronization via WebSockets (Socket.io) and integrated chatbot support. [GitHub](https://github.com/Plymouth-University/coursework-group-69-1.git)
+
+📱 **Easy Idama:** A property listing mobile application built with Flutter and Firebase. [GitHub](https://github.com/Harindu-Karunathilake/Easy-Idama.git)
+
+🌟 **SkillMatch:** An AI-integrated recruitment platform utilizing the MERN stack. [GitHub](https://github.com/katiyapamanohara/SkillMatch)
+
+## 🏆 Achievements
+*   **1st Runner-Up:** Cre8X 2.0 National UI/UX Designathon (Team 404).
+*   **TechSpire Excellence Award:** Faculty of Computing, NSBM Green University (Team 404).
 
 ## 🚀 Tech Stack
-🔹 **Flutter & Dart** – My go-to for mobile development  
-🔹 **Firebase & Firestore** – For scalable backend solutions  
-🔹 **AI & ML** – Expanding my knowledge in neural networks and predictive models  
-🔹 **MERN stack**   
+🔹 **Languages:** JavaScript, TypeScript, Python, Dart, C#, C++  
+🔹 **Frontend:** Next.js, React, TailwindCSS, Radix UI, Flutter  
+🔹 **Backend:** Node.js, Express.js, Firebase (Firestore, Auth), MongoDB  
+🔹 **Tools:** Docker, Vercel, Postman, Git, Three.js  
+
 ## 📫 Let's Connect!
 💻 Check out my projects on [GitHub](https://github.com/Hikarunathilake)  
-💬 Always open to discussing **Flutter, AI, and innovative tech solutions!**  
-
+💬 Always open to discussing **Flutter, AI, and innovative tech solutions!** 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harindu.k_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindu-karunathilake-7299062b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harindu20k3@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harindu.k_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindu-karunathilake-7299062b4) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harindu20k3@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Harindu-Karunathilake&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harindu-Karunathilake&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harindu-Karunathilake&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harindu-Karunathilake&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
