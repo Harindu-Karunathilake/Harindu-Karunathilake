@@ -39,7 +39,7 @@
 🔹 **Tools:** Docker, Vercel, Postman, Git, Three.js  
 
 ## 📫 Let's Connect!
-💻 Check out my projects on [GitHub](https://github.com/Hikarunathilake)  
+💻 Check out my projects on [GitHub](https://github.com/Harindu-Karunathilake)  
 💬 Always open to discussing **Flutter, AI, and innovative tech solutions!** 
 
 ## 🌐 Socials:
