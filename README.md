@@ -47,11 +47,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindu-karunathilake-7299062b4) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harindu20k3@gmail.com) 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harindu-Karunathilake&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harindu-Karunathilake&show_icons=true&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harindu-Karunathilake&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harindu-Karunathilake&layout=compact&theme=dark&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harindu-Karunathilake&theme=dark&hide_border=false)
 
 ---
 
