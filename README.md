@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Harindu! 🚀
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🔹 **Computer Science Undergraduate** at Plymouth University  
 🔹 Passionate about **Full-Stack Development** and building AI-driven solutions  
